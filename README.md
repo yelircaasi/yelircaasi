@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yelircaasi
+- 🛠️ I'm the creator and maintainer of [PolyglotToolkit](https://github.com/PolyglotToolkit), a set of appps and utilities for (human) language learning.
 - 👀 I’m interested in machine learning, especially NLP and CV.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on open-source projects related to my interests.
