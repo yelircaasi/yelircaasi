@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yelircaasi
+- 👋 Hi, I’m @yelircaasi, a Rust developer trapped in a Python developer's body.
 - 🛠️ I'm the creator and maintainer of [PolyglotToolkit](https://github.com/PolyglotToolkit), a set of apps and utilities for (human) language learning.
 - 👀 I’m interested in machine learning, especially NLP. FOSS is something I care a lot about.
 - 🌱 I’m currently learning Rust and Haskell. Yeah, yeah, I know what you're thinking.
