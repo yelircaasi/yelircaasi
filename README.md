@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yelircaasi, a Rust developer trapped in a Python developer's body.
-- 🛠️ I'm the creator and maintainer of [PolyglotToolkit](https://github.com/PolyglotToolkit), a set of apps and utilities for (human) language learning.
-- 👀 I’m interested in machine learning, especially NLP. FOSS is something I care a lot about.
+- 👋 Hi, I’m @yelircaasi, a developer with a background in machine learning and natural language processing.
+- 🛠️ I'm the creator and maintainer of [RosettaProjects](https://github.com/RosettaProjects), a collection of resources for learning and comparing programming languages side-by-side.
+- 👀 Aside from my work, I'm interested in type systems and compilers. FOSS is something I care a lot about.
 - 🌱 I’m currently learning Rust and Haskell. Yeah, yeah, I know what you're thinking.
 - 💞️ I’m looking to collaborate on open-source projects related to my interests, and my circle of interests is in constant flux.
-- 📫 How to reach me: same username on Telegram
+- 📫 How to reach me: same username on Telegram, Mastodon, LinkedIn, etc.
